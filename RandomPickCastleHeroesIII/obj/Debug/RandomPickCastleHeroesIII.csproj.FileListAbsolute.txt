@@ -1,0 +1,10 @@
+C:\Users\Paweł Kulewicz\Documents\GitHub\RandomPickCastleHeroesIII\RandomPickCastleHeroesIII\bin\Debug\RandomPickCastleHeroesIII.exe.config
+C:\Users\Paweł Kulewicz\Documents\GitHub\RandomPickCastleHeroesIII\RandomPickCastleHeroesIII\bin\Debug\RandomPickCastleHeroesIII.exe
+C:\Users\Paweł Kulewicz\Documents\GitHub\RandomPickCastleHeroesIII\RandomPickCastleHeroesIII\bin\Debug\RandomPickCastleHeroesIII.pdb
+C:\Users\Paweł Kulewicz\Documents\GitHub\RandomPickCastleHeroesIII\RandomPickCastleHeroesIII\obj\Debug\RandomPickCastleHeroesIII.csprojAssemblyReference.cache
+C:\Users\Paweł Kulewicz\Documents\GitHub\RandomPickCastleHeroesIII\RandomPickCastleHeroesIII\obj\Debug\RandomPickCastleHeroesIII.csproj.CoreCompileInputs.cache
+C:\Users\Paweł Kulewicz\Documents\GitHub\RandomPickCastleHeroesIII\RandomPickCastleHeroesIII\obj\Debug\RandomPickCastleHeroesIII.exe
+C:\Users\Paweł Kulewicz\Documents\GitHub\RandomPickCastleHeroesIII\RandomPickCastleHeroesIII\obj\Debug\RandomPickCastleHeroesIII.pdb
+C:\Users\Paweł Kulewicz\Documents\GitHub\RandomPickCastleHeroesIII\RandomPickCastleHeroesIII\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paweł Kulewicz\Documents\GitHub\RandomPickCastleHeroesIII\RandomPickCastleHeroesIII\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Paweł Kulewicz\Documents\GitHub\RandomPickCastleHeroesIII\RandomPickCastleHeroesIII\obj\Debug\RandomPickCastleHeroesIII.csproj.CopyComplete
